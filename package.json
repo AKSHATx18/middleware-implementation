@@ -1,0 +1,14 @@
+{
+  "name": "middleware-assignment",
+  "version": "1.0.0",
+  "description": "Express.js middleware implementation for logging and bearer token authentication.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "VENOM",
+  "license": "ISC"
+}
